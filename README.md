@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selina7704)](https://github.com/selina7704/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selina7704 &layout=compact)](https://github.com/selina7704/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=selina7704&show_icons=true&theme=radical)](https://github.com/selina7704)
 
 
 
